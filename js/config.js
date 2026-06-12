@@ -11,8 +11,8 @@
 const CONFIG = {
   // --- GitHub repo that acts as the database + file store ---
   GITHUB_TOKEN: "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",
-  GITHUB_OWNER: "your-github-username-or-org",
-  GITHUB_REPO: "technica-pdm-data",   // recommend a SEPARATE private repo for data
+  GITHUB_OWNER: "MiguelFaraj-Eng",
+  GITHUB_REPO: "Electrical-Standardization",   // recommend a SEPARATE private repo for data
   GITHUB_BRANCH: "main",
 
   // --- Data paths inside that repo ---
