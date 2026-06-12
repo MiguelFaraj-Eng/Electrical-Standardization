@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "username": "engineer_demo",
+      "name": "Demo Engineer",
+      "email": "engineer@technicainternational.example",
+      "role": "engineer",
+      "password": "CHANGE_ME"
+    },
+    {
+      "username": "admin_demo",
+      "name": "Demo Admin",
+      "email": "admin@technicainternational.example",
+      "role": "admin",
+      "password": "CHANGE_ME"
+    },
+    {
+      "username": "superadmin_demo",
+      "name": "Demo Super Admin",
+      "email": "superadmin@technicainternational.example",
+      "role": "super_admin",
+      "password": "CHANGE_ME"
+    }
+  ]
+}
