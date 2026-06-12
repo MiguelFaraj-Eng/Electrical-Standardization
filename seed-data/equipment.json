@@ -1,0 +1,33 @@
+{
+  "equipment": [
+    {
+      "id": "drop-type-packer",
+      "name": "Drop Type Packer",
+      "category": "Packing Equipment",
+      "createdBy": "admin_marc",
+      "createdAt": "2026-06-12T00:00:00Z",
+      "versions": [
+        {
+          "id": "v01",
+          "label": "Version 01",
+          "description": "1 infeed configuration",
+          "notes": "Standard single-line configuration.",
+          "createdBy": "admin_marc",
+          "createdAt": "2026-06-12T00:00:00Z",
+          "status": "approved",
+          "revisions": []
+        },
+        {
+          "id": "v02",
+          "label": "Version 02",
+          "description": "2 infeed configuration",
+          "notes": "Dual-line configuration for higher throughput lines.",
+          "createdBy": "admin_marc",
+          "createdAt": "2026-06-12T00:00:00Z",
+          "status": "approved",
+          "revisions": []
+        }
+      ]
+    }
+  ]
+}
