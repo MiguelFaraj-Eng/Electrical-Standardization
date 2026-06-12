@@ -15,11 +15,11 @@
       "password": "CHANGE_ME"
     },
     {
-      "username": "superadmin_demo",
-      "name": "Demo Super Admin",
-      "email": "superadmin@technicainternational.example",
+      "username": "Miguel",
+      "name": "Miguel Faraj",
+      "email": "miguel.faraj@technicaintl.com",
       "role": "super_admin",
-      "password": "CHANGE_ME"
+      "password": "D0022b0c0cf53@$"
     }
   ]
 }
