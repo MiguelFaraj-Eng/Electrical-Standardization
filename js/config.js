@@ -10,7 +10,7 @@
 
 const CONFIG = {
   // --- GitHub repo that acts as the database + file store ---
-  GITHUB_TOKEN: "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",
+  GITHUB_TOKEN: "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",
   GITHUB_OWNER: "MiguelFaraj-Eng",
   GITHUB_REPO: "Electrical-Standardization",   // recommend a SEPARATE private repo for data
   GITHUB_BRANCH: "main",
